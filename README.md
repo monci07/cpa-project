@@ -1,2 +1,2 @@
 # cpa-project
-Project to analyze customer personalities for different products and generate a model for prediction
+Project to analyze customer personalities based on products and generate a predictive model.
